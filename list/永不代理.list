@@ -9,14 +9,18 @@ IP-CIDR,224.0.0.0/4
 IP-CIDR6,::1/128
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
+DOMAIN-SUFFIX,fireflycloud.net.cn
+DOMAIN-SUFFIX,wgetcloud.org
 DOMAIN,oucc.seedasdan.org
-DOMAIN,ouo.io
+DOMAIN-SUFFIX,ddns.createchstudio.com
 DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,soap6565.asuscomm.com
 DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,edinburgh.createchstudio.com
+DOMAIN-SUFFIX,slt.createchstudio.com
 DOMAIN-SUFFIX,cmcc.wifi
 DOMAIN-SUFFIX,yingfans.me
 DOMAIN-SUFFIX,hdtvbt.com
@@ -28,10 +32,6 @@ DOMAIN-KEYWORD,speedtest
 DOMAIN-KEYWORD,secureacceptance.cybersource.com
 DOMAIN-KEYWORD,oracle
 DOMAIN-SUFFIX,test-ipv6.com
-PROCESS-NAME,adguard_dns
-PROCESS-NAME,WeChat
-PROCESS-NAME,Apple Configurator
-PROCESS-NAME,DownloadService
 DOMAIN-KEYWORD,sslvpn-
 DOMAIN-KEYWORD,gov
 DOMAIN-SUFFIX,ipw.cn
@@ -39,4 +39,3 @@ DOMAIN-SUFFIX,eeo.cn
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,test-ipv4.com
-DOMAIN-SUFFIX,npmmirror.com
