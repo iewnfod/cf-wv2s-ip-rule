@@ -9,11 +9,7 @@ DOMAIN-KEYWORD,lunarclient.com
 DOMAIN-SUFFIX,mcstats.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,mt.mc.production.hypixel.io
-DOMAIN-SUFFIX,mojang.com
-DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,production.hypixel.io
-DOMAIN-SUFFIX,209.222.115/24
-DOMAIN-SUFFIX,209.222.114/24
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,epicgames.dev
@@ -51,5 +47,3 @@ DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steamunlocked.net
 DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,taptap.io
-DOMAIN-SUFFIX,boombeachgame.com

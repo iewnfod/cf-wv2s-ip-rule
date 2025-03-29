@@ -2,10 +2,8 @@ DOMAIN,api.lemonsqueezy.com
 DOMAIN,order.luckydogsoft.com
 DOMAIN-SUFFIX,tracker.opentrackr.org
 DOMAIN-SUFFIX,tracker1.520.jp
-DOMAIN-SUFFIX,tracker.opentrackr.org
 DOMAIN-SUFFIX,opentracker.i2p.rocks
 DOMAIN-SUFFIX,open.demonii.com
-DOMAIN-SUFFIX,tracker.openbittorrent.com
 DOMAIN-SUFFIX,tracker.openbittorrent.com
 DOMAIN-SUFFIX,open.stealth.si
 DOMAIN-SUFFIX,exodus.desync.com
@@ -16,7 +14,6 @@ DOMAIN-SUFFIX,tracker1.bt.moack.co.kr
 DOMAIN-SUFFIX,tracker.moeking.me
 DOMAIN-SUFFIX,tk1.trackerservers.com
 DOMAIN-SUFFIX,movies.zsw.ca
-DOMAIN-SUFFIX,tracker1.bt.moack.co.kr
 DOMAIN-SUFFIX,uploads.gamecoast.net
 DOMAIN-SUFFIX,tracker2.dler.org
 DOMAIN-SUFFIX,tracker.tiny-vps.com
@@ -41,8 +38,6 @@ DOMAIN-SUFFIX,tracker.loligirl.cn
 DOMAIN-SUFFIX,tracker.lilithraws.org
 DOMAIN-SUFFIX,tr.burnabyhighstar.com
 DOMAIN-SUFFIX,t1.hloli.org
-DOMAIN-SUFFIX,tracker2.dler.org
-DOMAIN-SUFFIX,tracker.renfei.net
 DOMAIN-SUFFIX,tracker.mywaifu.best
 DOMAIN-SUFFIX,open.acgnxtracker.com
 DOMAIN-SUFFIX,v2.iperson.xyz
@@ -58,7 +53,6 @@ DOMAIN-SUFFIX,open.dstud.io
 DOMAIN-SUFFIX,new-line.net
 DOMAIN-SUFFIX,isk.richardsw.club
 DOMAIN-SUFFIX,bt1.archive.org
-DOMAIN-SUFFIX,tracker2.itzmx.com
 DOMAIN-SUFFIX,tracker.edkj.club
 DOMAIN-SUFFIX,incine.ru
 DOMAIN-SUFFIX,yahor.of.by
@@ -93,14 +87,9 @@ DOMAIN-SUFFIX,www.peckservers.com
 DOMAIN-SUFFIX,tracker.cloudit.top
 DOMAIN-SUFFIX,tr.ready4.icu
 DOMAIN-SUFFIX,1337.abcvg.info
-DOMAIN-SUFFIX,www.peckservers.com
-DOMAIN-SUFFIX,wepzone.net
-DOMAIN-SUFFIX,tracker.qu.ax
 DOMAIN-SUFFIX,tracker.files.fm
-DOMAIN-SUFFIX,tracker.dler.org
 DOMAIN-SUFFIX,tracker.bt4g.com
 DOMAIN-SUFFIX,region.nl1.privex.cc
-DOMAIN-SUFFIX,1337.abcvg.info
 DOMAIN-SUFFIX,tracker.t-rb.org
 DOMAIN-SUFFIX,tracker.artixlinux.org
 DOMAIN-SUFFIX,tracker-udp.gbitt.info
@@ -114,5 +103,4 @@ DOMAIN-SUFFIX,aegir.sexy
 DOMAIN-SUFFIX,tracker.ipfsscan.io
 DOMAIN-SUFFIX,tracker.gbitt.info
 DOMAIN-SUFFIX,tracker1.itzmx.com
-DOMAIN-SUFFIX,tracker.gbitt.info
 DOMAIN-SUFFIX,t.acg.rip
