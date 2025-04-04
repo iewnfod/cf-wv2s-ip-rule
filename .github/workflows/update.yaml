@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-and-commit:
+  Update:
     runs-on: ubuntu-latest
 
     steps:
@@ -16,17 +16,9 @@ jobs:
       - name: Run main.py
         run: python main.py
 
-      - name: Check for changes
+      - name: Commit & Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "Automated update from GitHub Actions"
-          else
-            echo "No changes to commit."
-          fi
-
-      - name: Push changes
-        if: success() && steps.check-for-changes.outputs.changes_detected == 'true'
-        run: git push
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add configuration.txt
+          git diff --cached --quiet || (git commit -m "Update Addressesapi" && git push)
